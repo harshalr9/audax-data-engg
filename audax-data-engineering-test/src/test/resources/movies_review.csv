@@ -1,0 +1,10 @@
+user_id,movie_id,movie_name,rating
+U001,M001,Avatar,9
+U001,M002,Dune,10
+U001,M003,Star Wars,8
+U002,M001,Avatar,7
+U002,M002,Dune,10
+U002,M003,Star Wars,9
+U003,M001,Avatar,7
+U003,M002,Dune,9
+U003,M003,Star Wars,6
